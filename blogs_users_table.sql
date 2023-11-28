@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS `blogs`;
+DROP TABLE IF EXISTS `comments`;
 
-CREATE TABLE `blogs` (
+CREATE TABLE `comments` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `title` varchar(255) DEFAULT NULL,
   `content` mediumtext,

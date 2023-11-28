@@ -1,3 +1,20 @@
+## Python learning material
+## Artificial Intelligence 
+clustering algorithm, decision tree
+deep learning  
+linear regression
+probability and Bayes
+
+## Purpose of this material
+introduce several AI methods and provide self-learning material
+
+## Goal
+Use Python to complement simple AI problem
+
+
+
+
+
 ## new features for Primary research company
 
 ### Purpose of this project

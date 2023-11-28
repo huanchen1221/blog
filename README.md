@@ -1,13 +1,14 @@
-## Huan's blog
+## new features for Primary research company
 
 ### Purpose of this project
-I am using this project to practice skills I learned.  
+primary research company going to add a comments feature
+function include 1. create comments 2. edit comments 3. login require 4.public comments
 
 ### To run
 * download this repo
 * download mysql in your local db
-* create a database named blogs
-* import the blogs table and users table to the blogs database 
+* create a database named 
+* import the comment table and users table to the comments database 
 * open with intellij
 * build and click run
 
